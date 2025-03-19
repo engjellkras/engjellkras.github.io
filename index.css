@@ -17,5 +17,5 @@ h3{
     display: flex;
 }
 body{
-    background-image: url(pitch.jpg);
+    background-image: url('pitch.jpg');
 }
