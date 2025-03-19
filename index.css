@@ -10,7 +10,7 @@ h3{
 .start-page{
     align-content: center;
     display: flex;
-    ;
+    text-align: left;
 }
 .start-page img{
     width: 200px;
