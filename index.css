@@ -10,11 +10,11 @@ h3{
 .start-page{
     width: 300px;
     float: left;
+    display: grid;
 }
 .start-page img{
     width: 300px;
     margin: 10px;
-    float:right;
 }
 body{
     background-image: url('pitch.jpg');
