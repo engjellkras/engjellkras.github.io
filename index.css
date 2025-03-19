@@ -9,7 +9,7 @@ h3{
 }
 .start-page{
     width: 300px;
-   text-align: left;
+    float: left;
 }
 .start-page-img{
     width: 300px;
