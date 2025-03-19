@@ -13,4 +13,5 @@ body{
 }
 .start-page{
     align-content: center;
+    display: flex;
 }
