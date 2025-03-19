@@ -9,11 +9,10 @@ h3{
 }
 .start-page{
     align-content: center;
-    display: flex;
-    text-align: left;
+    display: grid;
 }
 .start-page img{
-    width: 200px;
+    width: 300px;
     margin: 10px;
 }
 body{
