@@ -11,6 +11,7 @@ h3{
     width: 300px;
     float: left;
     display: grid;
+    background-color: green;
 }
 .start-page img{
     width: 300px;
