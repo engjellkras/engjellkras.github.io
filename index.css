@@ -10,8 +10,12 @@ h3{
 .start-page{
     align-content: center;
     display: flex;
+    ;
 }
 .start-page img{
-    width: 300px;
+    width: 200px;
     margin: 10px;
+}
+body{
+    background-color: green;
 }
