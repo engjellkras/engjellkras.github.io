@@ -8,4 +8,6 @@ body{
 }
 .start-page{
     align-content: center;
+    float: right;
+    margin: 16px;
 }
