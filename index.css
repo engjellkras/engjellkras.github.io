@@ -2,13 +2,14 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif ;
     text-align: center;
     color: antiquewhite;
+    background-color: darkgreen;
 }
 h3{
     font-family: Georgia, 'Times New Roman', Times, serif ;
      color: antiquewhite;
 }
 body{
-    background-color: darkgreen;
+    
 }
 .start-page{
     align-content: center;
