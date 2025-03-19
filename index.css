@@ -8,10 +8,10 @@ h3{
      color: antiquewhite;
 }
 .start-page{
-    align-content: center;
-    display: grid;
+    width: 300px;
+   text-align: left;
 }
-.start-page img{
+.start-page-img{
     width: 300px;
     margin: 10px;
 }
