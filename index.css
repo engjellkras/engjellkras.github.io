@@ -10,10 +10,11 @@ h3{
 .start-page{
     display: flex;
     flex-direction: column;
-    justify-content: center; /* centers vertically */
-    align-items: center;     /* centers horizontally */
-    height: 100vh;           /* takes full viewport height */
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;
     text-align: center;
+    background-color: black;
 }
 
 body{
