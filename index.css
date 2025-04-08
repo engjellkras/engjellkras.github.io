@@ -14,14 +14,14 @@ h3{
     align-items: center;     
     height: 100vh;
     text-align: center;
-    background-color: black;
 }
 .inform-player-list{
-    
+
 }
 
 body{
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: green;
 }
