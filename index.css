@@ -8,18 +8,16 @@ h3{
      color: antiquewhite;
 }
 .start-page{
-    width: 300px;
-    float: left;
-    display: grid;
-    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* centers vertically */
+    align-items: center;     /* centers horizontally */
+    height: 100vh;           /* takes full viewport height */
+    text-align: center;
 }
-.start-page img{
-    width: 300px;
-    margin: 10px;
-}
+
 body{
-    background-image: url(pitch.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
