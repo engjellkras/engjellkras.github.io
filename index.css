@@ -8,13 +8,23 @@ body{
     font-family: Arial, sans-serif;
 }
 h1 {
-    background: linear-gradient(to right, rgb(82, 82, 255), #0072ff );
+    background: linear-gradient(to right, green, #0af93e );
     color: white;
     padding: 20px;
     text-align: center;
     border-radius: 12px;
     font-size: medium;
     font-family: 'Arial Black', Helvetica, sans-serif;
+}
+h2 {
+    font-size: smaller;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+    transition: coloe 0.3s ease;
 }
 h3 {
     font-size: smaller;
