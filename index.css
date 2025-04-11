@@ -5,6 +5,15 @@ body{
     background-color: green;
     font-family: Arial, sans-serif;
 }
+h1 {
+    background: linear-gradient();
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 12px;
+    font-size: medium;
+    font-family: 'Arial Black', Helvetica, sans-serif;
+}
 .start-page{
     display: flex;
     flex-direction: column;
@@ -27,4 +36,6 @@ border: 1px;
 padding: 15px;
 background-color: antiquewhite;
 border-radius: 8px;
+overflow-y: auto;
+box-shadow: 0 2px 5px;
 }
