@@ -22,9 +22,15 @@ h2 {
     margin-bottom: 15px;
     text-align: center;
     font-weight: bold;
+
+}
+h2 a {
     text-decoration: none;
     color: #333;
-    transition: coloe 0.3s ease;
+    transition: color 0.3s ease;
+}
+h2 a:hover{
+    color: #0af93e;
 }
 h3 {
     font-size: smaller;
