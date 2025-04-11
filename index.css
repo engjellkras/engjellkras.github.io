@@ -39,6 +39,12 @@ h2 a:hover{
     color: #0af93e;
     background-color: #555;
 }
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 200px;
+}
 .button-container{
     display: flex;
     justify-content: center;
