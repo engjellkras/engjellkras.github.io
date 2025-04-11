@@ -1,11 +1,9 @@
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif ;
-    text-align: center;
-    color: antiquewhite;
-}
-h3{
-    font-family: Georgia, 'Times New Roman', Times, serif ;
-     color: antiquewhite;
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    font-family: Arial, sans-serif;
 }
 .start-page{
     display: flex;
@@ -14,14 +12,19 @@ h3{
     align-items: center;     
     height: 100vh;
     text-align: center;
-}
-.inform-player-list{
-
+    padding: 20px;
 }
 
-body{
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-color: green;
+.page-container{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.inform-player-list {
+max-height: 200px;
+width: 250px;
+border: 1px;
+padding: 15px;
+background-color: antiquewhite;
+border-radius: 8px;
 }
