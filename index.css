@@ -1,7 +1,8 @@
 body{
     height: 100%;
     margin: 0;
-    padding: 0;
+    padding: 10px;
+    box-sizing: border-box;
     padding-top: 120px;
     background-image: url(football-field.jpg);
     background-size: cover;
@@ -59,7 +60,7 @@ h2 a:hover{
     margin-top: 0px;
 }
 .article-container{
-    width: 50%;
+    width: 90%;
     margin-left: auto;
     padding: 20px;
     border-radius: 8px;
@@ -163,4 +164,11 @@ img {
         font-size: 0.9rem;
         padding: 15px;
     }
+  .match-article {
+        font-size: 0.85rem;
+        line-height: 1.4;
+        max-height: none;
+        overflow-y: visible;
+        margin-top: 20px;
+          }
 }
