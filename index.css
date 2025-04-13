@@ -173,9 +173,9 @@ img {
 .footer-container{
     background-color: #333;
     color: antiquewhite;
-    padding: 5px 0;
+    padding: 5px 10px;
     text-align: center;
     position: static;
-    width: 120%;
+    width: 100%;
     margin-top: 20px;
 }
