@@ -60,7 +60,7 @@ h2 a:hover{
     margin-top: 0px;
 }
 .article-container{
-    width: 90%;
+    width: 50%;
     margin-left: auto;
     padding: 20px;
     border-radius: 8px;
@@ -164,11 +164,4 @@ img {
         font-size: 0.9rem;
         padding: 15px;
     }
-  .match-article {
-        font-size: 0.85rem;
-        line-height: 1.4;
-        max-height: none;
-        overflow-y: visible;
-        margin-top: 20px;
-          }
 }
