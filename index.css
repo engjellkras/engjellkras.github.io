@@ -125,13 +125,14 @@ h3 {
     padding: 20px;
 }
 .inform-player-list {
-max-height: 200px;
+max-height: 300px;
 width: 250px;
-border: 1px;
-padding: 15px;
+border-radius: 5px;
+padding: 10px;
+margin: 10px;
 background-color: #333;
 border-radius: 8px;
-overflow-y: auto;
+overflow: hidden;
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 color: antiquewhite;
