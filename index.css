@@ -8,14 +8,6 @@ body{
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
 }
-.main-content{
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-}
 h1 {
     background: linear-gradient(to right, green, #0af93e );
     color: white;
