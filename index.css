@@ -9,6 +9,10 @@ body{
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
 }
+.main-conatiner{
+    margin-top: 10px;
+    padding: 10px 20px;
+}
 h1 {
     background: linear-gradient(to right, green, #0af93e );
     color: white;
@@ -164,4 +168,13 @@ img {
         font-size: 0.9rem;
         padding: 15px;
     }
+}
+.footer-container{
+    background-color: #333;
+    color: antiquewhite;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
