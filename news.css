@@ -36,3 +36,26 @@ h1 {
     gap: 20px;
     margin-top: 0px;
 }
+h2 {
+    font-size: smaller;
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+}
+h2 a {
+    text-decoration: none;
+    color: antiquewhite;
+    transition: color 0.3s ease;
+    font-size: 0.8rem; 
+    padding: 8px 16px; 
+    border-radius: 5px; 
+    background-color: #333; 
+    display: inline-block;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+h2 a:hover{
+    color: #0af93e;
+    background-color: #555;
+}
