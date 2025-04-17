@@ -1,0 +1,13 @@
+.badge-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+}
+.badge-container h3{
+
+}
+.badge-container img{
+    width: 25opx;
+}
