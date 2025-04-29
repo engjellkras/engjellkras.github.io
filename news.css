@@ -47,8 +47,7 @@ margin-bottom: 20px;
 .article-container{
     width: 50%;
     margin-left: 20px;
-    margin: 0 auto;
-    padding: 60px;
+    padding: 10px;
     border-radius: 8px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
@@ -59,4 +58,6 @@ margin-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
     color: antiquewhite;
     flex-direction: column;
+    text-align: center;
+
 }
