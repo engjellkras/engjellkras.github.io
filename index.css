@@ -2,22 +2,6 @@
     margin-top: 5px;
     padding: 5px 15px;
 }
-.header-container.active{
-    background-color: green;
-    animation: pulse 1s infinite
-    }
-    
-    @keyframes pulse {
-           0% {
-           box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.7);
-        }
-        70% {
-           box-shadow: 0 0 10px 10px rgba(0, 255, 0, 0);
-        }
-        100% {
-           box-shadow: 0 0 0 0 rgba(0, 255, 0, 0);
-        }
-    }    
 .article-container{
     width: 50%;
     margin-left: auto;
