@@ -57,7 +57,7 @@ margin-bottom: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
     color: antiquewhite;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
 
 }
