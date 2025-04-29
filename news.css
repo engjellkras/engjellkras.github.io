@@ -6,6 +6,7 @@
     height: auto;
 }
 .badge-container h3{
+padding: 5px;
 font-family: 'Montserrat', sans-serif;
 font-weight: 700;
 font-size: 2.8rem;
