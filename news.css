@@ -57,7 +57,11 @@ margin-bottom: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
     color: antiquewhite;
-    flex-direction: row;
+    display: flex;
     text-align: center;
 
+}
+.article-container img{
+    margin-right: 20px;
+    padding: 10px;
 }
