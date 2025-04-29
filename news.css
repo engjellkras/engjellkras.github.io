@@ -44,7 +44,7 @@ align-items: center;
 justify-content: center;
 }
 .article-container{
-    width: 100%;
+    width: 50%;
     margin-left: auto;
     margin: 0 auto;
     padding: 20px;
@@ -58,4 +58,5 @@ justify-content: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
     color: antiquewhite;
     flex-direction: column;
+    padding-top: 30px;
 }
