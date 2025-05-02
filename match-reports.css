@@ -1,0 +1,12 @@
+h2 {
+    justify-content: center;
+    color: rgb(12, 11, 11);
+    text-shadow: gold;
+    display: grid;
+}
+h3 {
+    display: flex;
+    color: black;
+    text-shadow: gold;
+    padding: 20px;
+}
