@@ -31,7 +31,6 @@ h2 {
     box-shadow: 2px 4px 8px rgba(174, 171, 171, 0.4);
     overflow: hidden;
     transition: transform 0.2s;
-    font-size: x-small;
 }
 .league-box:hover{
     transform: scale(1.0);
@@ -52,7 +51,7 @@ h2 {
   padding: 8px 0;
   font-weight: bold;
   color: antiquewhite;
-  font-size: 16px;
+  font-size: 9px;
   opacity: 0;
   transition: opacity 0.3s;
 }
