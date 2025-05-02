@@ -3,10 +3,15 @@ h2 {
     color: rgb(12, 11, 11);
     text-shadow: gold;
     display: grid;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
     display: flex;
-    color: black;
+    color: antiquewhite;
     text-shadow: gold;
+    background: linear-gradient(135deg, #1a1a1a, #0d0d0d);
+    border: 3px solid #ffd700;
     padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
 }
