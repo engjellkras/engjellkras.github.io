@@ -25,10 +25,10 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #7d7878;
+    background-color: #d7cece;
     border: 2px;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(65, 64, 64, 0.4);
+    box-shadow: 0 4px 8px rgba(174, 171, 171, 0.4);
     overflow: hidden;
     transition: transform 0.2s;
 }
@@ -40,7 +40,7 @@ h2 {
     height: 100%;
     object-fit: contain;
     transition: opacity 0.3s;
-    filter: brightness(1.5);
+    filter: brightness(1.7);
 }
 .league-info {
  position: absolute;
