@@ -6,7 +6,7 @@ h2 {
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
 }
-h3 {
+.league-container {
     display: flex;
     color: antiquewhite;
     text-shadow: gold;
