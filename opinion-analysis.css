@@ -5,6 +5,7 @@
     height: 100vh;
     padding: 20px;
     gap: 20px;
+    flex-wrap: wrap;
 }
 iframe {
     width: 560px;
