@@ -1,7 +1,8 @@
+/*Some styling for the box of information*/
 .contact-container {
     max-width: 600px;
     margin: auto;
-    background: white;
+    background: antiquewhite;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);

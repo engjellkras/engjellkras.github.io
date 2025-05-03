@@ -1,3 +1,4 @@
+/*Styling for the news HTML page*/
 .main-container{
     margin-top: 5px;
     padding: 5px 15px;
@@ -44,8 +45,7 @@ align-items: center;
 justify-content: center;
 margin-bottom: 20px;
 }
-.article-container{
-    
+.article-container{ 
 margin-left: 20px;
 padding: 10px;
 border-radius: 8px;
